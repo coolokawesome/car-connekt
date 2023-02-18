@@ -1,3 +1,5 @@
-function carCard() {
+import { cars } from './cars';
+
+carCard = () => {
     
 }
